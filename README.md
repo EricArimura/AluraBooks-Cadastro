@@ -1,5 +1,3 @@
-# js-consumindo-dados-api
-
 <h1 align = "center">AluraBooks - Tela de cadastro</h1>
 
 <p>O projeto foi feito durante o curso Consumindo e tratando dados de uma API da Alura e foi utilizado somente Javascript, já que o HTML e o CSS já estavam prontos.</p> 
